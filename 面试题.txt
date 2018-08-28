@@ -1,3 +1,4 @@
+have a good day!
 一、python3和python2有什么区别？
 python2中print是一个语句，不论想输出什么，直接放到print关键字后面即可。
 python3里，print()是一个函数，像其他函数一样，print()需要你将要输出的东西作为参数传给它。
