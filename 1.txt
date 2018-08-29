@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-python is good
-
-python is hard
-=======
-python is good!
->>>>>>> test
